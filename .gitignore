@@ -1,0 +1,11 @@
+# .gitignore
+
+# .svg
+*.svg
+
+# emacs backup files
+*~
+
+# silly Mac filesystem
+*.DS_Store*
+*._*
