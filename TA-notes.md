@@ -39,6 +39,7 @@ This will be a safe place for them to ask technical questions. The code of condu
 
 
 ####Tracks
-TBA
+Track 1:
++ Use functions that return lazy sequences only in REPL since typing them in the definitions are doesn't evaluate them. If you want students to save them, use `mapv` and such instead.  
 
 Adapted from: https://github.com/clojurebridge-minneapolis/organizing/blob/master/resources/ta-meeting-notes.md
